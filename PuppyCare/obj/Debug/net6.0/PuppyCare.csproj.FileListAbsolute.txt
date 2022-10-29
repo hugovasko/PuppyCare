@@ -1,0 +1,15 @@
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/bin/Debug/net6.0/PuppyCare
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/bin/Debug/net6.0/PuppyCare.deps.json
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/bin/Debug/net6.0/PuppyCare.runtimeconfig.json
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/bin/Debug/net6.0/PuppyCare.dll
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/bin/Debug/net6.0/PuppyCare.pdb
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/obj/Debug/net6.0/PuppyCare.csproj.AssemblyReference.cache
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/obj/Debug/net6.0/PuppyCare.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/obj/Debug/net6.0/PuppyCare.AssemblyInfoInputs.cache
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/obj/Debug/net6.0/PuppyCare.AssemblyInfo.cs
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/obj/Debug/net6.0/PuppyCare.csproj.CoreCompileInputs.cache
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/obj/Debug/net6.0/PuppyCare.dll
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/obj/Debug/net6.0/refint/PuppyCare.dll
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/obj/Debug/net6.0/PuppyCare.pdb
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/obj/Debug/net6.0/PuppyCare.genruntimeconfig.cache
+/home/hugovasko/RiderProjects/PuppyCare/PuppyCare/obj/Debug/net6.0/ref/PuppyCare.dll
